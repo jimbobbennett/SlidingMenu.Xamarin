@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlidingMenuLib", "SlidingMenuLib.csproj", "{1BD8D480-B159-48E4-9D09-27D5319790BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		NZ_Release|Any CPU = NZ_Release|Any CPU
+		US_Release|Any CPU = US_Release|Any CPU
+		USDEBUG|Any CPU = USDEBUG|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BD8D480-B159-48E4-9D09-27D5319790BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD8D480-B159-48E4-9D09-27D5319790BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD8D480-B159-48E4-9D09-27D5319790BC}.NZ_Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD8D480-B159-48E4-9D09-27D5319790BC}.NZ_Release|Any CPU.Build.0 = Debug|Any CPU
+		{1BD8D480-B159-48E4-9D09-27D5319790BC}.US_Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD8D480-B159-48E4-9D09-27D5319790BC}.US_Release|Any CPU.Build.0 = Debug|Any CPU
+		{1BD8D480-B159-48E4-9D09-27D5319790BC}.USDEBUG|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD8D480-B159-48E4-9D09-27D5319790BC}.USDEBUG|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
